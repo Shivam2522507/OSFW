@@ -1,0 +1,32 @@
+.hero{
+    min-height: 80vh;
+}
+.services-h-fonts{
+      font-family: "Arial";
+  font-style: italic;
+  font-weight: 700;
+
+  letter-spacing: 0.05em;
+  color: #fff;
+  text-shadow: -1px -1px 0 #0c00b3, 1px -1px 0 #0c00b3, -1px 1px 0 #0c00b3,
+    1px 1px 0 #0c00b3;
+  font-size: 7rem;
+}
+.services-card img{
+    height: 280px;
+    width: 280px;
+    object-fit: contain;
+    transition: all 0.7s ease;
+}
+.services-card img:hover{
+   transform: scale(1.05);
+}
+.services-card p span{
+    color: #5a4ff3;
+}
+.services-card h2{
+    font-family: "Arial";
+  font-style: italic;
+    color: #0c00b3;
+
+}

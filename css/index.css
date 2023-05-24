@@ -1,0 +1,87 @@
+
+#contact .modal-content{
+  background: white!important;
+  border: 2px solid black;
+}
+#contact .modal-header{
+  border-bottom: 2px solid rgb(157, 157, 157);
+}
+
+.hero-sec{
+  min-height: 83vh;
+  background: linear-gradient(to left, #fff 40%, #A6A0EA 60%)!important;
+}
+.hero-sec img,.third-sec img{
+  height: 500px;
+  width: 500px;
+  object-fit: contain;
+}
+.hero-btn{
+background: #5A4FF3;
+border-radius: 3px;
+border: 1px solid #5A4FF3;
+padding: 3px 8px;
+color: #fff;
+}
+.navbar{
+  background: linear-gradient(to left, #fff 40%, #A6A0EA 60%)!important;
+}
+.navbar .comp-name{
+  color: #fff!important;
+}
+.hero-btn:hover{
+  background: #4336fa;
+}
+.section-work-data{
+  transition: all 0.7s linear;
+}
+
+.counter-numbers{
+  font-size: 3rem;
+  color: #5A4FF3;
+}
+.third-sec{
+  background-color: #fff;
+}
+.third-sec h3 span{
+  color: #5A4FF3;
+}
+
+.third-sec h2{
+  color: #4336fa;
+}
+.third-sec a{
+  background: #5A4FF3;
+border-radius: 3px;
+border: 1px solid #5A4FF3;
+padding: 8px 18px;
+color: #fff;
+text-decoration: none;
+transition: all 0.7s ease;
+}
+
+.third-sec a:hover{
+  background: #1004ba;
+}
+.third-sec img{
+  transition: all 0.7s ease;
+}
+.third-sec img:hover{
+  transform: scale(1.05);
+}
+.women-img ,.women-img a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.women-img img{
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  margin: 10px;
+}
+h2 span{
+  color: #4336fa;
+}
